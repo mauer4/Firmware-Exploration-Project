@@ -16,3 +16,5 @@ the ID will be used for 7-segment displays. For that reason, it is a bit hard to
 serial communication so I decided to just give the module some inputs of 8-bit combinations and see what would happen. This proved to be a very annoying process.
 The idea then came to have a program that continuously - in real-time - generates 8 bits as defined by the used via the command line. That way I was able to
 try many different inputs to the module without reflashin code, recompiling or anything like that.
+
+![image](https://user-images.githubusercontent.com/89616796/158040548-b1e0fd1f-9b23-4683-81c5-651df8017c62.png)
