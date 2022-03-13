@@ -1,4 +1,7 @@
 # Firmware-Exploration-Project
+
+This is a SUPER-SIMPLE project. Nevertheless - very useful.
+
 The code in this repo can be used to help explore new hardware
 
 Binary_experimentation:
